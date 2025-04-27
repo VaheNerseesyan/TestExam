@@ -1,0 +1,26 @@
+.product-card {
+  width: 300px;
+  height: j0px;
+  border: 1px solid #ddd; border-radius:
+  8px;
+  padding: 8px; margin: 16px;
+}
+.product-card img {
+  height: 60px;
+  width: 70px;
+}
+
+.product-container {
+  display: flex; 
+  flex-wrap: wrap;
+}
+
+.dark-mode {
+  background-color: #333;
+  color: #fff;
+}
+
+.dark-light-button {
+  position: relative;
+  left: 1400px;
+}
